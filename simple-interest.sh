@@ -4,7 +4,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Ismaila Lawal Elijah [ElijahLawal-7](https://github.com/ElijahLawal-7) 
+   # https://github.com/pandugoud
 
    # Input:
    # p, principal amount
