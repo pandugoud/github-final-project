@@ -1,4 +1,4 @@
-#  <a href="url"><img src="https://www.bing.com/images/search?view=detailV2&ccid=0hF7RT6k&id=F1CA808ED08CE2B8FA06F391E6B23735EEE3D3D7&thid=OIP.0hF7RT6ka911WM2fpgxDzgAAAA&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F12%2F1e%2F31%2F121e31f5626f772a128223a5e58c6b16.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.d2117b453ea46bdd7558cd9fa60c43ce%3Frik%3D19Pj7jU3suaR8w%26pid%3DImgRaw%26r%3D0&exph=200&expw=200&q=IBM+skill+network&simid=608042570686495988&form=IRPRST&ck=FE375BEBB29B17C1BC8667251811B5EC&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" align="middle" width="100" height="100"></a> IBM SKILL NETWORK
+ IBM SKILL NETWORK
 
 ## Part 1 - GitHub UI
 
@@ -64,6 +64,6 @@ Save the URL of CODE_OF_CONDUCT.md file in a notepad to submit later for peer re
 
 # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Ismaila Lawal Elijah [ElijahLawal-7](https://github.com/ElijahLawal-7)
+   # (https://github.com/pandugoud)
            
 
